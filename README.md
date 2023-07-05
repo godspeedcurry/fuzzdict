@@ -11,4 +11,6 @@ https://github.com/r0bbit/Blasting-Dictionary
 https://github.com/Ca3ua1ty/Blasting-Dictionary
 https://github.com/rootphantomer/Blasting_dictionary
 https://github.com/sabareeshkumaresan/web_application_payloads
+
+https://github.com/maurosoria/dirsearch
 还没整合完
